@@ -1,3 +1,7 @@
+---
+Title: This is only a test
+---
+
 ## Introduction
 
 We are entering text in Markdown. The goal will be to work with Jekyll layouts
