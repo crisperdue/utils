@@ -15,9 +15,9 @@ preformatted text.
 
 ~~A => (B | C)~~
 
-<div class=math>
+<p class=math>
 A ⇒ (B ∨ C)
-</div>
+</p>
 
 This is further testing of the darned thing.
 
