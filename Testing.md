@@ -13,7 +13,7 @@ Ain't it grand, we have
 preformatted text.
 </pre>
 
-~~A => (B | C)~~
+`[[A => (B | C)]]`
 
 <p class=math>
 A ⇒ (B ∨ C)
