@@ -10,7 +10,7 @@ but web applications that can interact with backends.
 
 <pre>
 Ain't it grand, we have
-preformatted text and &forall; x. x &ge; 0.
+preformatted text and ∀ x. x ≥ 0.
 </pre>
 
 `[[A => (B | C)]]`
