@@ -15,9 +15,9 @@ preformatted text and ∀ x. x ≥ 0.
 
 `[[A => (B | C)]]`
 
-<p class=math><b>
+<p class=math lang=math>
 A ⇒ (B ∨ C)
-</b></p>
+</p>
 
 This is further testing of the darned thing.
 
