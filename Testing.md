@@ -14,6 +14,7 @@ preformatted text.
 </pre>
 
 ~~A => (B | C)~~
+A ⇒ (B ∨ C)
 
 This is further testing of the darned thing.
 
