@@ -13,11 +13,7 @@ Ain't it grand, we have
 preformatted text.
 </pre>
 
-<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-
-<script>
-console.log('foo');
-</script>
+~~A => (B | C)~~
 
 This is further testing of the darned thing.
 
